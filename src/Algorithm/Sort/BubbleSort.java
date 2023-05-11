@@ -25,7 +25,7 @@ public class BubbleSort {
 //        int[] nums = {3,9,-1,10,-2,20,25};
 //
 //hot-fix
-
+//master
         //创建一个80000个随机数的数组
         int[] nums = new int[80000];
         for (int i = 0; i < nums.length; i++) {
